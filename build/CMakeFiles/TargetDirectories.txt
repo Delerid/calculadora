@@ -1,3 +1,0 @@
-C:/Users/Jose/Documents/calculadora c++/build/CMakeFiles/Calc.dir
-C:/Users/Jose/Documents/calculadora c++/build/CMakeFiles/edit_cache.dir
-C:/Users/Jose/Documents/calculadora c++/build/CMakeFiles/rebuild_cache.dir
